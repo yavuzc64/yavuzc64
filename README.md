@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg)
+![MasterHead](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg)
 <h1 align="center">Hi , I'm Yavuz</h1>
 <h3 align="center">A passionate computer scientist</h3>
 
