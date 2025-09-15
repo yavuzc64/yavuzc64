@@ -1,4 +1,4 @@
-![MasterHead](https://www.shutterstock.com/image-vector/design-concept-electronic-circuit-boards-600nw-1722921511.jpg)
+![MasterHead](https://images.pexels.com/photos/965345/pexels-photo-965345.jpeg)
 <h1 align="center">Hi , I'm Yavuz</h1>
 <h3 align="center">A passionate computer scientist</h3>
 
